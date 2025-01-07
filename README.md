@@ -20,6 +20,9 @@ Bu proje, nesne yönelimli programlama (OOP) prensiplerine dayalı olarak Java d
 ## Teknik Bilgiler
 
 - **Programlama Dili**: Java
+
+![developpement_java_maroc-1](https://github.com/user-attachments/assets/0d71827f-31e1-45e4-8644-5ee57195fa59)
+
 - **Kullanılan Yapılar**:
   - Abstract sınıflar: `SavasAraclari`, `KaraAraclari`, `HavaAraclari`, `DenizAraclari`
   - Özelleştirilmiş sınıflar: `Ucak`, `Siha`, `Obus`, `KFS`, `Firkateyn`, `Sida`
