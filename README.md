@@ -32,6 +32,9 @@ Bu proje, nesne yönelimli programlama (OOP) prensiplerine dayalı olarak Java d
 - **Rastgele Kart Seçimi**:
   - Bilgisayar kart seçimlerini rastgele yapar.
 
+
+
+
 ![Ekran görüntüsü 2025-01-08 022546](https://github.com/user-attachments/assets/8944fb3a-0577-487e-b813-3284276d387d)
 ## Kurulum
 
